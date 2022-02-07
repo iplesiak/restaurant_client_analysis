@@ -1,7 +1,7 @@
 # restaurant_client_analysis
 Analysis of a restaurants listed on YELP.
 Question:
-Which aspects of the restaurant matter most for customers?
+Which aspects of the restaurant matter the most to customers?
 
 
 Completed research indicates that to increase frequency of visits, restaurant should offer parking options, WiFi, and good pricing. 
